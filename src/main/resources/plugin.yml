@@ -1,0 +1,9 @@
+name: Wands
+main: me.hqm.plugindev.wands.WandsPlugin
+version: ${project.version}
+description: Cool wand things.
+authors: [Asecta, HmmmQuestionMark]
+commands:
+  wands:
+   usage: /wands
+   description: Open a cool gui.
